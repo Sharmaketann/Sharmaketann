@@ -1,7 +1,7 @@
 ### Hi there, 👋
 
 ---
- 🔭 I’m currently working on Java Android App
+ 🔭 Living | Learning | Levitating
 ---
  📫 How to reach me: [Twitter](www.twittter.com/ketansharma957)
 <!--
