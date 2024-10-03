@@ -7,7 +7,7 @@ Full Stack Developer
 Living, Learning, Levitating
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [sharmaketann.me](https://sharma-ketan-me.web.app/)
+* 🖥️  See my portfolio at [sharmaketann.in](https://sharmaketann.in/)
 * ✉️  You can contact me at [sharmaketann@gmail.com](mailto:sharmaketann@gmail.com)
 * 🧠  I'm learning a new framework, webpack and graphQL
 * 🤝  I'm open to collaborating on interesting projects
